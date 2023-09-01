@@ -1,0 +1,14 @@
+to initialize the app
+npm init 
+
+package json is created 
+
+then install express
+npm install express
+
+create a file named app.js
+and start creating the file
+
+mongodb user and pass:
+muser: sanjeebmsp
+password: qUg96pBjqAuhBYoV
